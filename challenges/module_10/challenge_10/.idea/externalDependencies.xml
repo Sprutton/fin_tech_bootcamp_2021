@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="Pythonid" />
+    <plugin id="com.andrey4623.rainbowcsv" />
+    <plugin id="com.intellij.bigdatatools" />
+    <plugin id="com.kite.intellij" />
+    <plugin id="net.seesharpsoft.intellij.plugins.csv" />
+    <plugin id="org.jetbrains.plugins.github" />
+  </component>
+</project>
